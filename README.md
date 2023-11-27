@@ -4,14 +4,17 @@ The analysis presents a comparative exploration between winter and summer months
 The findings, derived through Tableau, revealed intriguing insights:
 1)	Winter Ridership improving equal to Summer: The data showcased a higher volume of riders during the summer months compared to the winter season. However, some station performing better during winter compared to summer. While the available data didn't explicitly elucidate the reason behind this trend, one plausible assumption is that in winter, city riders might utilize bikes for both commuting and fitness purposes. Conversely, during summer, biking seems primarily utilitarian, serving as a mode of transportation.
 In understanding this trend, further investigation could explore how weather and seasonal changes impact people's preferences in using bikes within the cityscape. Additionally, collecting more nuanced data might provide deeper insights into the riders' motivations during these contrasting periods.
-![image](https://github.com/steve3636/RideShareTableau/assets/139638282/2718e03a-2b71-4118-8a52-636127bf07ed)
+
+
+![image](https://github.com/steve3636/RideShareTableau/assets/139638282/65b26a4b-2e46-4be2-94c0-a9059e3b2df5)
+
 ![image](https://github.com/steve3636/RideShareTableau/assets/139638282/a4564617-ee6e-4296-af75-c430ae54361c)
 
 
 
 
 
-2)	Consistent Peak Hours Across Seasons:
+3)	Consistent Peak Hours Across Seasons:
 
 An intriguing similarity emerged in the peak hours observed during both winter and summer months. The period from 1 pm to 6 pm consistently marked the peak riding hours, showing a parallel trend across these distinct seasons. This pattern suggests a commonality in rider behaviour irrespective of weather variations.
 The trend may be indicative of a predominant local rider demographic, including working-class individuals, making use of bikes as a preferred mode of transportation during their work hours. This inclination to bike around the city during these hours could be attributed to the desire to circumvent traffic congestion and navigate the urban landscape more efficiently.
@@ -39,6 +42,7 @@ Exploring options like offering trial memberships or flexible subscription plans
 
 
 ![image](https://github.com/steve3636/RideShareTableau/assets/139638282/6db6d265-67ec-4635-ba07-d460b23aceaa)
+
 ![image](https://github.com/steve3636/RideShareTableau/assets/139638282/7c48dcfb-333f-41fc-9c52-c287dec08cc0)
 
 
